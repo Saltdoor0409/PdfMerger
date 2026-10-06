@@ -24,4 +24,4 @@ python wordpptpdf.py
 pyinstaller --onefile --noconsole --hidden-import="comtypes" --hidden-import="comtypes.client" pdf.py
 ```
 
-👆This is to export the python file to exe file (Take 32MBs of storage)
+👆This command is to export the python source file to exe file (Take 32MBs of storage)
